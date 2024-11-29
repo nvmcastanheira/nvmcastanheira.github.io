@@ -4,9 +4,7 @@ permalink: /quant-projects/
 layout: single
 ---
 
-# Quant Projects
-
-Welcome to my Quant Projects page! Here you can find some of the projects I've worked on, complete with descriptions, images, and links to their respective GitHub repositories.
+Welcome to my Quant Projects page! Here you can find some of the projects I've worked on. Most of these are simply back-testing of some strategies I've developed. Some will have live results in the future, but unless otherwise stated, these are all simulations from past years. 
 
 ## Project Template
 
