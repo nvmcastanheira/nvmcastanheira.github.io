@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Academic Research"
     url: /academic-research/
+  - title: "Numerical Libraries"
+    url: /numerical-libraries/
   - title: "Quant Projects"
     url: /quant-projects/
   - title: "Resume"
