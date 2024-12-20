@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-      url: /
+    url: /
   - title: "Academic Research"
-      url: /academic-research/
+    url: /academic-research/
   - title: "Quant Projects"
     url: /quant-projects/
   - title: "Resume"
